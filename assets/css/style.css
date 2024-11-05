@@ -478,7 +478,7 @@ h6 {
   height: 80vh;
   overflow: hidden;
   position: relative;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/hero-bg.png") top center;
   background-size: cover;
   position: relative;
   margin-bottom: -90px;
@@ -488,7 +488,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(1, 114, 20, 0.253);
+  background: rgba(1, 99, 17, 0.61);
   position: absolute;
   bottom: 0;
   top: 0;
